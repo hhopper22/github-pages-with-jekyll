@@ -1,3 +1,3 @@
-# Welcome to my blog
+Welcome to my testing site
 
-I'm glad you are here. I plan to talk about ...
+This is a test of this site building feature.
